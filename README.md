@@ -3,6 +3,8 @@ CS Books
 
 > Reinforcement Learning [Open](books/Reinforcement%20Learning%202nd.pdf)
 
+> Deep Learning [Link](https://www.deeplearningbook.org/)
+
 >Book of Proof [Open](books/Book%20of%20Proof.pdf)
 
 >Automata, Computability and Complexity - Theory and Applications [Open](books/Automata%2C%20Computability%20and%20Complexity%20-%20Theory%20and%20Applications.pdf)
