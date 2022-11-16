@@ -1,7 +1,7 @@
 # Readings
 
 CS Books ![This is an image](https://www.svgrepo.com/show/94674/books-stack-of-three.svg)
-//(https://masterbundles.com/wp-content/uploads/edd/2022/01/minecraft-svg-bundle-cover.png)
+
 
 > Reinforcement Learning [Open](books/Reinforcement%20Learning%202nd.pdf)
 
@@ -15,3 +15,4 @@ CS Books ![This is an image](https://www.svgrepo.com/show/94674/books-stack-of-t
 
 >Introduction to Algorithms - 3rd Edition [Open](books/Introduction%20to%20Algorithms%20-%203rd%20Edition.pdf)
 
+![Minecraft](https://masterbundles.com/wp-content/uploads/edd/2022/01/minecraft-svg-bundle-cover.png)
