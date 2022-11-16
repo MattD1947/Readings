@@ -1,6 +1,7 @@
 # Readings
 
-CS Books ![This is an image](https://masterbundles.com/wp-content/uploads/edd/2022/01/minecraft-svg-bundle-cover.png)
+CS Books ![This is an image](https://www.svgrepo.com/show/94674/books-stack-of-three.svg)
+//(https://masterbundles.com/wp-content/uploads/edd/2022/01/minecraft-svg-bundle-cover.png)
 
 > Reinforcement Learning [Open](books/Reinforcement%20Learning%202nd.pdf)
 
